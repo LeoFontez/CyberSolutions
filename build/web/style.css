@@ -1,0 +1,40 @@
+header{
+   background: rgb(40,219,208);
+    background: linear-gradient(0deg, rgba(40,219,208,0.19931722689075626) 18%, rgba(87,174,223,1) 84%);
+}
+body{
+    background-color: white;
+}
+
+*{
+    margin: 0;
+    font-family: arial;
+}
+
+#resumo{
+    padding: 80px;
+    height: 100px;
+    width: 30%;
+    float: left;
+}
+#logoEmpresa{
+    padding: 45px;
+    height: 200px;
+    width: 50%;
+    float: right;
+}
+
+#logoInicial{
+
+
+}
+#logoLogin{
+    padding: 70px;
+}
+
+.resumoEmpresa{
+
+}
+.hEmpresa{
+    padding: 500px;
+}
